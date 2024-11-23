@@ -39,11 +39,9 @@ This course is intended to demonstrate foundational Python skills for working wi
 ## 📑 Main Topics 
 - [Web Scraping Lab](https://github.com/Saikiran-roy/Python-for-DataScience/blob/main/WebScraping_Review_Lab.ipynb)
 
-- [Extracting Stock Data Using a Python Library](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
 
-- [Extracting Stock Data Using a Web Scraping](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
 
-- [ Final Project - Extracting and Visualizing Stock Data](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/4%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+- [ Final Project - Extracting and Visualizing Stock Data](https://github.com/Saikiran-roy/Python-for-DataScience/blob/main/Final_Assignment%20Library.ipynb)
 
 
 
