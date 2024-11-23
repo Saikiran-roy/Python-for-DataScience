@@ -37,7 +37,7 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 
 ## 📑 Main Topics 
-- [Web Scraping Lab](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/1%20Web%20Scraping%20Lab.ipynb)
+- [Web Scraping Lab](https://github.com/Saikiran-roy/Python-for-DataScience/blob/main/WebScraping_Review_Lab.ipynb)
 
 - [Extracting Stock Data Using a Python Library](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
 
